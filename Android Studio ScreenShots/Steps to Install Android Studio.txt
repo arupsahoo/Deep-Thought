@@ -1,0 +1,10 @@
+1. Download Android Studio Executable file from https://developer.android.com/studio/#downloads
+
+2. Run the downloaded file and install Android Studio
+
+3. Download SDK Components
+
+4. Then Click on Start a new project to create a new application
+
+5. Then to run your app go to device manager then create a virtual phone 
+   or connect your physical device.
